@@ -10,7 +10,7 @@ CIFP_CM_DAW_Apuntes_ED/
 │   ├── Documentación y Optimización (Análisis estático de código)-Javier Blanco.pdf  
 │   ├── Documentación y Optimización (Linters).pdf  
 │   ├── Documentación y Optimización (Tipos de documentación).pdf  
-│   ├── Documentación y Optimización (Inspección_continua)).pdf   
+│   ├── Documentación y Optimización (Inspección_continua).pdf   
 │   ├── Git.pdf  
 │   ├── HEDIONDEZ DEL CÓDIGO - Francisco Rodriguez.pdf  
 │   ├── Markdown_AlbertoOtero.docx  
